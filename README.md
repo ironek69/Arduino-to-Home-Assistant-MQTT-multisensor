@@ -17,4 +17,4 @@ Multisensors functions:
 - OLED LCD display;
 - Error detection and reporting;
 
-https://aws1.discourse-cdn.com/free1/uploads/ai_speaker/original/2X/7/72e26a8c9accc3fa3b74c1457b3bce80ea670246.jpeg
+https://aws1.discourse-cdn.com/free1/uploads/ai_speaker/original/2X/c/cda9948803a276306282ccd203873dac3c61fcf3.jpeg
