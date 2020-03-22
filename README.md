@@ -17,4 +17,6 @@ Multisensors functions:
 - OLED LCD display;
 - Error detection and reporting;
 
+Project description: https://ai-speaker.discourse.group/t/integracja-arduino-mega-ethernet-shield-z-ha-przez-mqtt/212/102
+
 https://aws1.discourse-cdn.com/free1/uploads/ai_speaker/original/2X/c/cda9948803a276306282ccd203873dac3c61fcf3.jpeg
