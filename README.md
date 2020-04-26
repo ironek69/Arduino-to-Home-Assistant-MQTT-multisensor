@@ -23,3 +23,5 @@ https://aws1.discourse-cdn.com/free1/uploads/ai_speaker/original/2X/c/cda9948803
 
 Fire sensor and RF 433 pilot.
 https://youtu.be/Lqxv7Xg-VnI
+
+Library for RS485 interface: https://github.com/Sthing/Nick-Gammon-RS485
